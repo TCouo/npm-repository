@@ -1,0 +1,22 @@
+{
+  "name": "tcouo-assets",
+  "version": "1.0.0",
+  "description": "静态资源仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TCouo/npm-repository.git"
+  },
+  "keywords": [
+    "npm-repository"
+  ],
+  "author": "tcouo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TCouo/npm-repository/issues"
+  },
+  "homepage": "https://github.com/TCouo/npm-repository#readme"
+}
